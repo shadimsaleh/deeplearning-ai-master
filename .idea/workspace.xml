@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d324ae3c-336b-4002-b44b-aa3426dfd36c" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/course1/assignment1-2/assignment2/myassignment2_2.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/course1/assignment1-3/assignment3/myassignment3.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/course1/assignment1-4/assignment4/myassignment4_1.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/course1/assignment1-4/assignment4/myassignment4_2.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/course1/assignment1-4/assignment4/testCases_v4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/course1/assignment1-2/assignment2/assignment2_1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/course1/assignment1-2/assignment2/assignment2_1.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-coursera/datasets/test_catvnoncat.h5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/deep-learning-coursera/datasets/train_catvnoncat.h5" beforeDir="false" />
-    </list>
+    <list default="true" id="d324ae3c-336b-4002-b44b-aa3426dfd36c" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -78,7 +68,7 @@
       <file leaf-file-name="testCases_v4.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/course1/assignment1-4/assignment4/testCases_v4.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
+            <state relative-caret-position="3030">
               <caret line="202" column="30" selection-start-line="202" selection-start-column="30" selection-end-line="202" selection-end-column="30" />
             </state>
           </provider>
@@ -125,18 +115,15 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
-    <option name="x" value="518" />
-    <option name="y" value="23" />
-    <option name="width" value="922" />
-    <option name="height" value="821" />
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -178,6 +165,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -221,8 +209,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="747" y="0" width="693" height="900" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -231,18 +218,18 @@
       <window_info anchor="bottom" id="Python Console" order="7" weight="0.32969698" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.28848484" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49818182" visible="true" weight="0.0" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4969697" visible="true" weight="0.33476394" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
-      <window_info anchor="right" auto_hide="true" id="SciView" order="3" show_stripe_button="false" sideWeight="0.49909583" type="FLOATING" weight="0.32954547" />
-      <window_info id="Structure" order="1" sideWeight="0.5018182" side_tool="true" visible="true" weight="0.0" />
+      <window_info anchor="right" id="SciView" order="3" sideWeight="0.49909583" weight="0.32954547" />
+      <window_info id="Structure" order="1" sideWeight="0.5030303" side_tool="true" visible="true" weight="0.33476394" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" x="0" y="0" width="92" height="700" id="Documentation" sideWeight="0.50090414" side_tool="true" weight="0.32954547" />
+      <window_info anchor="right" x="0" y="0" width="92" height="700" id="Documentation" order="4" sideWeight="0.50090414" side_tool="true" weight="0.32954547" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -255,52 +242,7 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/deep-learning-coursera/deep-learning-coursera/Neural Networks and Deep Learning/Logistic Regression with a Neural Network mindset.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/deep-learning-coursera/deep-learning-coursera/Neural Networks and Deep Learning/Deep Neural Network - Application.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/deep-learning-coursera/deep-learning-coursera/Neural Networks and Deep Learning/Planar data classification with one hidden layer.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/deep-learning-coursera/deep-learning-coursera/Neural Networks and Deep Learning/Building your Deep Neural Network - Step by Step.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/deep-learning-coursera/deep-learning-coursera/Neural Networks and Deep Learning/Logistic Regression with a Neural Network mindset.ipynb" />
-    <entry file="file://$PROJECT_DIR$/deep-learning-coursera/deep-learning-coursera/Neural Networks and Deep Learning/Planar data classification with one hidden layer.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/deep-learning-coursera/deep-learning-coursera/Neural Networks and Deep Learning/Deep Neural Network - Application.ipynb" />
-    <entry file="file://$PROJECT_DIR$/deep-learning-coursera/deep-learning-coursera/Neural Networks and Deep Learning/Building your Deep Neural Network - Step by Step.ipynb" />
-    <entry file="file://$PROJECT_DIR$/course1/assignment1-2/assignment2/assignment2_1.ipynb 2">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="71" column="16" selection-start-line="71" selection-start-column="11" selection-end-line="71" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/course1/assignment1-2/assignment2/myassignment2_1.ipynb">
+    <entry file="file://$PROJECT_DIR$/course1/assignment1-2/assignment2/assignment2_2.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
           <selected id="0" />
@@ -314,10 +256,62 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/course1/assignment1-2/assignment2/assignment2_2.ipynb">
+    <entry file="file://$PROJECT_DIR$/course1/assignment1-2/assignment2/myassignment2_2.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
           <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/course1/assignment1-3/assignment3/myassignment3.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/course1/assignment1-4/assignment4/myassignment4_1.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/course1/assignment1-4/assignment4/testCases_v4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3030">
+          <caret line="202" column="30" selection-start-line="202" selection-start-column="30" selection-end-line="202" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/course1/assignment1-4/assignment4/myassignment4_2.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/deep-learning-coursera/deep-learning-coursera/Neural Networks and Deep Learning/Logistic Regression with a Neural Network mindset.ipynb" />
+    <entry file="file://$PROJECT_DIR$/deep-learning-coursera/deep-learning-coursera/Neural Networks and Deep Learning/Deep Neural Network - Application.ipynb" />
+    <entry file="file://$PROJECT_DIR$/deep-learning-coursera/deep-learning-coursera/Neural Networks and Deep Learning/Planar data classification with one hidden layer.ipynb" />
+    <entry file="file://$PROJECT_DIR$/deep-learning-coursera/deep-learning-coursera/Neural Networks and Deep Learning/Building your Deep Neural Network - Step by Step.ipynb" />
+    <entry file="file://$PROJECT_DIR$/deep-learning-coursera/deep-learning-coursera/Neural Networks and Deep Learning/Logistic Regression with a Neural Network mindset.ipynb" />
+    <entry file="file://$PROJECT_DIR$/deep-learning-coursera/deep-learning-coursera/Neural Networks and Deep Learning/Planar data classification with one hidden layer.ipynb" />
+    <entry file="file://$PROJECT_DIR$/deep-learning-coursera/deep-learning-coursera/Neural Networks and Deep Learning/Deep Neural Network - Application.ipynb" />
+    <entry file="file://$PROJECT_DIR$/deep-learning-coursera/deep-learning-coursera/Neural Networks and Deep Learning/Building your Deep Neural Network - Step by Step.ipynb" />
+    <entry file="file://$PROJECT_DIR$/course1/assignment1-2/assignment2/assignment2_1.ipynb 2" />
+    <entry file="file://$PROJECT_DIR$/course1/assignment1-2/assignment2/myassignment2_1.ipynb" />
+    <entry file="file://$PROJECT_DIR$/course1/assignment1-2/assignment2/assignment2_1.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/course1/assignment1-2/assignment2/assignment2_2.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="17" />
         </state>
       </provider>
     </entry>
@@ -331,13 +325,13 @@
     <entry file="file://$PROJECT_DIR$/course1/assignment1-3/assignment3/myassignment3.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
-          <selected id="54" />
+          <selected id="65" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/course1/assignment1-4/assignment4/testCases_v4.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
+        <state relative-caret-position="3030">
           <caret line="202" column="30" selection-start-line="202" selection-start-column="30" selection-end-line="202" selection-end-column="30" />
         </state>
       </provider>
